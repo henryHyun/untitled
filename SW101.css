@@ -1,0 +1,51 @@
+container{
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+}
+
+header{
+    width: 780px;
+    height: 100px;
+    line-height: 100px;
+}
+
+nav{
+    width: 780px;
+}
+
+nav ul{
+    overflow: hidden;
+}
+
+nav ul li{
+    border: 1px solid #cccccc;
+    width: 138px;
+    height: 40px;
+    float: left;
+    list-style: none;
+    text-align: center;
+    line-height: 40px;
+}
+
+wrap{
+    overflow: hidden;
+    width: 780px;
+}
+
+content{
+    float: left;
+    width: 600px;
+    height: 300px;
+}
+
+banner{
+    float: left;
+    width: 135px;
+    height: 300px;
+}
+
+footer{
+    width: 780px;
+    height: 100px;
+    line-height: 100px;
+}
